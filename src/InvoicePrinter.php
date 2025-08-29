@@ -11,7 +11,7 @@
  * @since       2017-12-15
  */
 
-namespace Konekt\PdfInvoice;
+namespace Axitech\PdfInvoice;
 
 use FPDF;
 
