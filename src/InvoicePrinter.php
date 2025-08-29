@@ -13,9 +13,9 @@
 
 namespace Axitech\PdfInvoice;
 
-use TFPDF;
+use tFPDF;
 
-class InvoicePrinter extends TFPDF
+class InvoicePrinter extends tFPDF
 {
     public const ICONV_CHARSET_INPUT = 'UTF-8';
     public const ICONV_CHARSET_OUTPUT_A = 'ISO-8859-1//TRANSLIT';
