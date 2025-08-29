@@ -13,7 +13,7 @@
 
 namespace Axitech\PdfInvoice;
 
-use FPDF;
+use TFPDF;
 
 class InvoicePrinter extends TFPDF
 {
